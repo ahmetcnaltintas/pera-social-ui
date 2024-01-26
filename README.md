@@ -12,3 +12,6 @@
 
 ### Sign in
 ![Sign in](./img/sign-in.png)
+
+## Uygulama özellikleri
+-Pera uygulaması, kullanıcıların iletişim kurmasını kolaylaştırmak ve paylaşım deneyimini zenginleştirmek için tasarlandı. Mesajlaşma özelliği sayesinde arkadaşlarınızla anlık iletişimde olun. Fotoğraf paylaşma seçeneğiyle unutulmaz anılarınızı paylaşın ve diğer kullanıcıların görsel dünyasına dalın. Müzik dinleme seçeneğiyle en sevdiğiniz şarkıları keşfedin ve paylaşın. Ayrıca, kısa videolar izleme özelliği sayesinde eğlenceli içeriklere göz atabilir ve paylaşabilirsiniz. Pera ile evrenin tadını çıkarın.
