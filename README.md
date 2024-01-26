@@ -6,3 +6,9 @@
 
 ### Home screen
 ![Home screen](./img/home.png)
+
+### Sign up
+![Sign up](./img/sign-up.png)
+
+### Sign in
+![Sign in](./img/sign-in.png)
