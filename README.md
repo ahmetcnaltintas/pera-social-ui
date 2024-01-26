@@ -1,2 +1,2 @@
 # Pera Mobil Application
-## Uzayın derinliklerine yolculuk
+-Uzayın derinliklerine yolculuk
