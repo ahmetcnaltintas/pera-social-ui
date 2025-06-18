@@ -1,17 +1,59 @@
-# Pera Mobil Application
--Uzayın derinliklerine yolculuk
+<h1 align="center">🚀 Pera - Space Themed Social Platform</h1>
+<p align="center">"Uzayın derinliklerine yolculuk"</p>
 
-## Pera Nedir ?
--Pera, evrenin büyüsüne kapılmış herkes için bir sosyal medya platformudur. Evrenin en büyüleyici görsellerini ve bilgilerini paylaşmanızı sağlar. Uzayın derinliklerine dalmak, yıldızların arasında yolculuk yapmak ve evren hakkında merak ettiklerinizi paylaşmak için ideal bir yerdir. Yıldızlar, gezegenler ve galaksiler arasında serbestçe dolaşarak yeni insanlarla tanışabilirsiniz.
+---
 
-### Home screen
+## 📌 Proje Hakkında
+
+Pera, evrenin büyüsüne kapılmış herkes için hayal edilmiş bir sosyal medya platformu konseptidir. Bu proje, HTML ve CSS ile geliştirilmiş olup; bir mobil uygulama fikrinin basit bir web arayüzü olarak ilk adımıdır.
+
+---
+
+## 🪐 Pera Nedir?
+
+> Pera, evrenin en büyüleyici görsellerini ve bilgilerini paylaşmanızı sağlar.  
+> Yıldızlar, gezegenler ve galaksiler arasında serbestçe dolaşarak yeni insanlarla tanışabileceğiniz bir hayal dünyasıdır.
+
+---
+
+## 🖼️ Uygulama Ekranları
+
+### 🔸 Home Screen  
 ![Home screen](./img/home.png)
 
-### Sign up
+### 🔸 Sign Up  
 ![Sign up](./img/sign-up.png)
 
-### Sign in
+### 🔸 Sign In  
 ![Sign in](./img/sign-in.png)
 
-## Uygulama özellikleri
--Pera uygulaması, kullanıcıların iletişim kurmasını kolaylaştırmak ve paylaşım deneyimini zenginleştirmek için tasarlandı. Mesajlaşma özelliği sayesinde arkadaşlarınızla anlık iletişimde olun. Fotoğraf paylaşma seçeneğiyle unutulmaz anılarınızı paylaşın ve diğer kullanıcıların görsel dünyasına dalın. Müzik dinleme seçeneğiyle en sevdiğiniz şarkıları keşfedin ve paylaşın. Ayrıca, kısa videolar izleme özelliği sayesinde eğlenceli içeriklere göz atabilir ve paylaşabilirsiniz. Pera ile evrenin tadını çıkarın.
+---
+
+## ✨ Özellikler (Konsept)
+
+- 🗨️ Mesajlaşma
+- 🖼️ Fotoğraf paylaşımı
+- 🎧 Müzik dinleme
+- 🎞️ Kısa video izleme
+- 🌌 Uzay temalı sosyal etkileşim
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- HTML5  
+- CSS3  
+
+---
+
+## 📎 Not
+
+Bu proje, HTML ve CSS becerilerimi geliştirmek için oluşturduğum ilk kişisel web arayüzüdür. Gerçek işlevselliği yoktur, konsept arayüz amaçlıdır.
+
+---
+
+## 📫 İletişim
+
+E-posta: **ahmetcnaltintas@gmail.com**  
+Web sitem: [ahmetcanaltintas.com](https://ahmetcanaltintas.com)  
+LinkedIn: [linkedin.com/in/ahmetcnaltintas](https://linkedin.com/in/ahmetcnaltintas)
